@@ -1,3 +1,3 @@
 # awesome-repo
 everything to stalk
-trying to learn
+trying to work
