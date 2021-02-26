@@ -1,2 +1,2 @@
 # awesome-repo
-nothing to stalk
+everything to stalk
