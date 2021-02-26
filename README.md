@@ -1,3 +1,3 @@
 # awesome-repo
-everything to stalk
-trying to work
+Thanks for the session dude :)
+Just trying branching.
